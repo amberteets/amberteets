@@ -19,3 +19,9 @@ Here are some ideas to get you started:
 
 - Earned a certificate from Columbia University's Data Analytics Bootcamp
 - Experience as a financial services consultant and hedge fund analyst
+
+## Connect with Me
+
+
+<!-- Links -->
+[1]: https://www.linkedin.com/in/amber-teetsel/
