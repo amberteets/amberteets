@@ -20,12 +20,9 @@ Here are some ideas to get you started:
 - Earned a certificate from Columbia University's Data Analytics Bootcamp
 - Experience as a financial services consultant and hedge fund analyst
 
-<!--
 ## Connect with Me
 
-[![linkedin](https://user-images.githubusercontent.com/68611255/129254824-4a6f12f9-3f52-428f-bb66-63f15ee1f9f8.png)][2]
-
--->
+[![LinkedIn_Logo](https://user-images.githubusercontent.com/68611255/129258172-31904a99-0f98-40c9-8f94-c9a389b7e5e2.png)][2]
 
 <!-- Links -->
 [1]: https://github.com/amberteets
