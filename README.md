@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Amber
 
 <!--
 **amberteets/amberteets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Consultant, Business Analyst with Background in Mathematics and Finance
+
+- Earned a certificate from Columbia University's Data Analytics Bootcamp
+- Experience as a financial services consultant and hedge fund analyst
