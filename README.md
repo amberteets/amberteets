@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 ## Consultant, Business Analyst with Background in Mathematics and Finance
 
-- Earned a certificate from Columbia University's Data Analytics Bootcamp
-- Experience as a financial services consultant and hedge fund analyst
+-  📊  Earned a certificate from Columbia University's Data Analytics Bootcamp
+-  💼  Experience as a financial services consultant and hedge fund analyst
+-  🎓  Graduated with a B.A., *magna cum laude* from Vanderbilt University in Math, Women's and Gender Studies, and Finance
 
 ## Connect with Me
 
