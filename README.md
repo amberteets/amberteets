@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 <!-- Achievements -->
 <div>
-  <kbd>
-    <img src="https://user-images.githubusercontent.com/68611255/129960022-790488f4-e676-48fe-8f8b-92431c5b7602.png" height=50></img>
-    <img src="https://user-images.githubusercontent.com/68611255/129960335-d2f97671-618b-430c-be64-bba6da8ed3ec.jpeg" height=50></img>
-  </kbd>
+  <img src="https://user-images.githubusercontent.com/68611255/129961914-5fe28f59-53a5-4b5a-818c-264f0e1c9cb3.png" height=50></img>
+  <img src="https://user-images.githubusercontent.com/68611255/129962311-92db75dd-16a1-4af7-b2d4-2a4a6194c8b3.png" height=50></img>
+  <img src="https://user-images.githubusercontent.com/68611255/129961736-1ff11921-2fa2-4689-ab71-fcc034ae1fa9.png" height=50></img>
+  <img src="https://user-images.githubusercontent.com/68611255/129961623-b908fe14-5f16-418a-9a67-ece0642ccf5c.png" height=50></img>
 </div>
 
 <br/>
