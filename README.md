@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Consultant, Business Analyst with Background in Mathematics and Finance
 
-<!-- Achievements -->
+<!-- Achievements - In-Progress
 <div class='row'>
   <div class='col-xs-12 col-md-3'>
     <img src="https://user-images.githubusercontent.com/68611255/129961914-5fe28f59-53a5-4b5a-818c-264f0e1c9cb3.png" height=50></img>
@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 </div>
 
 <br/>
+-->
 
 - Experience as a financial services consultant, hedge fund analyst, and teaching assistant
 - Earned a certificate from Columbia University's Data Analytics Bootcamp
