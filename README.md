@@ -18,11 +18,19 @@ Here are some ideas to get you started:
 ## Consultant, Business Analyst with Background in Mathematics and Finance
 
 <!-- Achievements -->
-<div>
-  <img src="https://user-images.githubusercontent.com/68611255/129961914-5fe28f59-53a5-4b5a-818c-264f0e1c9cb3.png" height=50></img>
-  <img src="https://user-images.githubusercontent.com/68611255/129962311-92db75dd-16a1-4af7-b2d4-2a4a6194c8b3.png" height=50></img>
-  <img src="https://user-images.githubusercontent.com/68611255/129961736-1ff11921-2fa2-4689-ab71-fcc034ae1fa9.png" height=50></img>
-  <img src="https://user-images.githubusercontent.com/68611255/129961623-b908fe14-5f16-418a-9a67-ece0642ccf5c.png" height=50></img>
+<div class='row'>
+  <div class='col-xs-12 col-md-3'>
+    <img src="https://user-images.githubusercontent.com/68611255/129961914-5fe28f59-53a5-4b5a-818c-264f0e1c9cb3.png" height=50></img>
+  </div>
+  <div class='col-xs-12 col-md-3'>
+    <img src="https://user-images.githubusercontent.com/68611255/129962311-92db75dd-16a1-4af7-b2d4-2a4a6194c8b3.png" height=50></img>
+  </div>
+  <div class='col-xs-12 col-md-3'>
+    <img src="https://user-images.githubusercontent.com/68611255/129961736-1ff11921-2fa2-4689-ab71-fcc034ae1fa9.png" height=50></img>
+  </div>
+  <div class='col-xs-12 col-md-3'>
+    <img src="https://user-images.githubusercontent.com/68611255/129961623-b908fe14-5f16-418a-9a67-ece0642ccf5c.png" height=50></img>
+  </div>
 </div>
 
 <br/>
