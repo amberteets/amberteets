@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Consultant, Business Analyst with Background in Mathematics and Finance
+## Business Analyst Data
 
 <!-- Achievements - In-Progress
 <div class='row'>
@@ -36,8 +36,12 @@ Here are some ideas to get you started:
 <br/>
 -->
 
-- Experience as a financial services consultant, hedge fund analyst, and teaching assistant
-- Earned a certificate from Columbia University's Data Analytics Bootcamp
+- Strong consulting experience in transformation engagements for global financial institutions
+- Solid understanding of Mathematics, Finance, and Technology
+- Adept at analytical problem solving and data visualization
+- Effective verbal and written communication skills
+- Proven track record of driving efficiency and delivering tangible results with extreme attention to detail
+- Completed Columbia University's Data Analytics Bootcamp
 - Graduated with a B.A., *magna cum laude* from Vanderbilt University in Math, Women's and Gender Studies, and Finance
 
 ## Connect with Me
