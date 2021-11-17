@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Business Analyst Data
+## Business Data Analyst
 
 <!-- Achievements - In-Progress
 <div class='row'>
@@ -36,13 +36,10 @@ Here are some ideas to get you started:
 <br/>
 -->
 
-- Strong consulting experience in transformation engagements for global financial institutions
-- Solid understanding of Mathematics, Finance, and Technology
-- Adept at analytical problem solving and data visualization
-- Effective verbal and written communication skills
-- Proven track record of driving efficiency and delivering tangible results with extreme attention to detail
-- Completed Columbia University's Data Analytics Bootcamp
-- Graduated with a B.A., *magna cum laude* from Vanderbilt University in Math, Women's and Gender Studies, and Finance
+Experiend consultant and analyst with a strong background in executing transformation engagements for global financial institutions through data and process analysis. Previous professional engagements focused on automating data capture workflows (Excel, VBA) and designing streamlined data reporting processes (VBA, Tableau), as well as performing statistical analysis and financial modeling.
+
+Earned a certification in Data Analytics through Columbia University in June 2021. Graduated from Vanderbilt University in 2019 with a Bachelor's degree, *magna cum laude*, in Mathematics, Women's & Gender Studies, and Finance.
+
 
 ## Connect with Me
 
